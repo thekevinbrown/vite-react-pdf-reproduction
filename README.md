@@ -9,8 +9,9 @@ $ yarn
 $ yarn dev
 ```
 
-Expected Result: Successful render
-Actual Result:
+**Expected Result:** Successful render
+
+**Actual Result:**
 
 ```
 Uncaught ReferenceError: global is not defined
